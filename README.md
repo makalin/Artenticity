@@ -1,5 +1,7 @@
 # 🎨 **Artenticity** – Crowdsourced AI Art Authenticity Verifier
 
+![Artenticity Logo](artenticity_logo.png)
+
 Artenticity is an AI-powered system designed to verify the authenticity of digital artworks and NFTs by analyzing visual patterns, metadata, and blockchain provenance. Built upon crowdsourced datasets, Artenticity ensures ethical standards and digital ownership integrity in the rapidly evolving NFT and digital art marketplace.
 
 ## ✨ **Features**
